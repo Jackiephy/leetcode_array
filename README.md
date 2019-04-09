@@ -5,7 +5,7 @@ The first part is named 'leetcode_array', I will pick out some questions related
 27.	Remove Element  	
 26.	Remove Duplicates from Sorted Array  	
 80.	Remove Duplicates from Sorted Array II  	
-277.	Find the Celebrity	 *Locked*  
+277.	Find the Celebrity  	*Locked*
 189.	Rotate Array  	
 41.	First Missing Positive  	
 299.	Bulls and Cows  	
@@ -24,7 +24,7 @@ The first part is named 'leetcode_array', I will pick out some questions related
 220.	Contains Duplicate III  
 55.	Jump Game  	
 45.	Jump Game II  	
-121.	Best Time to Buy and Sell Stock  	  
+121.	Best Time to Buy and Sell Stock  	
 122.	Best Time to Buy and Sell Stock II  	
 123.	Best Time to Buy and Sell Stock III  	
 188.	Best Time to Buy and Sell Stock IV  	
@@ -37,6 +37,30 @@ The first part is named 'leetcode_array', I will pick out some questions related
 287.	Find the Duplicate Number  	
 135.	Candy  
 330.	Patching Array  
+4.	Median of Two Sorted Arrays  	
+321.	Create Maximum Number  
+327.	Count of Range Sum  
+289.	Game of Life  			
+57.	Insert Interval  	
+56.	Merge Intervals  	
+252.	Meeting Rooms  	
+253.	Meeting Rooms II  	
+352.	Data Stream as Disjoint Intervals	TreeMap  	
+239.	Sliding Window Maximum  	
+295.	Find Median from Data Stream  	
+53.	Maximum Subarray  	
+325.	Maximum Size Subarray Sum Equals k  	
+209.	Minimum Size Subarray Sum  	
+238.	Product of Array Except Self  	
+152.	Maximum Product Subarray  	
+228.	Summary Ranges  	
+163.	Missing Ranges  	
+88.	Merge Sorted Array  	
+75.	Sort Colors  	
+283.	Move Zeroes  	
+376.	Wiggle Subsequence  	
+280.	Wiggle Sort  	
+324.	Wiggle Sort II  
 
 ## 2019/4/8 completed list:
 ### 27.	Remove Element
