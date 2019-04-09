@@ -63,7 +63,7 @@ The first part is named 'leetcode_array', I will pick out some questions related
 324.	Wiggle Sort II  
 
 ## 2019/4/8 completed list:
-### 27.	Remove Element
+### 27.	Remove Element  `easy`
 - Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 The order of elements can be changed. It doesn't matter what you leave beyond the new length.
@@ -79,7 +79,7 @@ Your function should return length = 5, with the first five elements of nums con
 Note that the order of those five elements can be arbitrary.
 It doesn't matter what values are set beyond the returned length.
 
-### 26.	Remove Duplicates from Sorted Array
+### 26.	Remove Duplicates from Sorted Array  `easy`
 - Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 
@@ -93,7 +93,7 @@ Given nums = [0,0,1,1,1,2,2,3,3,4],
 Your function should return length = 5, with the first five elements of nums being modified to 0, 1, 2, 3, and 4 respectively.
 It doesn't matter what values are set beyond the returned length.
 
-### 80.	Remove Duplicates from Sorted Array II
+### 80.	Remove Duplicates from Sorted Array II  `medium`
 - Given a sorted array nums, remove the duplicates in-place such that duplicates appeared at most twice and return the new length.
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 
@@ -108,7 +108,7 @@ Your function should return length = 7, with the first seven elements of nums be
 It doesn't matter what values are set beyond the returned length.
 
 ## 2019/4/9 completed list:
-### 189.	Rotate Array
+### 189.	Rotate Array  `easy`
 - Given an array, rotate the array to the right by k steps, where k is non-negative.
 
 - Example 1:  
@@ -126,7 +126,7 @@ Explanation:
 rotate 1 steps to the right: [99,-1,-100,3]  
 rotate 2 steps to the right: [3,99,-1,-100]  
 
-### 41.	First Missing Positive
+### 41.	First Missing Positive  `hard`
 - Given an unsorted integer array, find the smallest missing positive integer.
 
 - Example 1:  
