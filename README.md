@@ -2,7 +2,7 @@
 Starting today, I will use github to record my leetcode brushing experience. I will put the questions, answers and thoughts of each day in github for reference.
 The first part is named 'leetcode_array', I will pick out some questions related to array for practice.
 ## I will put these questions into this repository:
-27.	Remove Element  	
+1.	Remove Element  	
 26.	Remove Duplicates from Sorted Array  	
 80.	Remove Duplicates from Sorted Array II  	
 277.	Find the Celebrity  	*Locked*
